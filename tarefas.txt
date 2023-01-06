@@ -1,0 +1,31 @@
+Transformação de Dados
+
+Comprar imóveis por um preço mais baixo e que tenham um alto potencial de revenda ( lucro = venda - compra)
+
+Enconcontrar bons negócios. Encontrar casas com um preço baixo e com alto potencial de revenda.
+
+
+1. Qual o numero de imoveis por ano de construção
+
+2. Qual o menor numero de quartos por ano de construção de imóveis
+
+3. Qual o preço de compra mais alto por cada número de quarto
+
+4. Qual a soma de rodos os preços de compra por número de quartos
+
+5. Qual a soma de todos os preços de compra por número de quartos e banheiros
+
+6. Qual o tamanho médio das salas dos imóveis por ano de construção
+
+7. Qual o tamanho mediano das salas dos imóeveis por ano de construção
+
+8. Qual o devios padrão das salas dos imoveis por ano de construção
+
+9. Como é o crescimento médio de preço de compras dos imóveis, por ano, dia e pela semana do ano
+
+10. Eu gostaria de olhar no mapa e conseguir indentificar as casa com o maior preço
+
+
+Documento com perguntas e respostas
+anexo com um dashboard com 3 gráficos
+um mapa no formato html
