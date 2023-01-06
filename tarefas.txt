@@ -11,7 +11,7 @@ Enconcontrar bons negócios. Encontrar casas com um preço baixo e com alto pote
 
 3. Qual o preço de compra mais alto por cada número de quarto
 
-4. Qual a soma de rodos os preços de compra por número de quartos
+4. Qual a soma de todos os preços de compra por número de quartos
 
 5. Qual a soma de todos os preços de compra por número de quartos e banheiros
 
