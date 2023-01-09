@@ -17,7 +17,7 @@ Enconcontrar bons negócios. Encontrar casas com um preço baixo e com alto pote
 
 6. Qual o tamanho médio das salas dos imóveis por ano de construção
 
-7. Qual o tamanho mediano das salas dos imóeveis por ano de construção
+7. Qual o tamanho mediano das salas dos imóveis por ano de construção
 
 8. Qual o devios padrão das salas dos imoveis por ano de construção
 
